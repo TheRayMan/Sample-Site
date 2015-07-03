@@ -1,13 +1,12 @@
 Rails.application.routes.draw do
-<<<<<<< HEAD
+
   get 'media/vid'
 
   get 'about/scaffold'
-=======
+
   get 'contact/con'
 
   get 'welcome/home'
->>>>>>> 93c4098e240d7624f3a18b8edd4ca8943d286b74
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
