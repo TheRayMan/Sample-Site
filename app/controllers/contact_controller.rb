@@ -1,4 +1,4 @@
 class ContactController < ApplicationController
-  def con
+  def cont
   end
 end
